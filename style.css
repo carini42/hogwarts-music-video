@@ -9,7 +9,7 @@
 }
 
 .content h1 {
-  font-family: 'Harry Potter', sans-serif;
+  font-family: 'Harry Potter', sans-serif !important;
 }
 
 header {
