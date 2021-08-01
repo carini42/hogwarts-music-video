@@ -1,5 +1,5 @@
-@import url('http://fonts.cdnfonts.com/css/harry-potter');
-@import url('https://fonts.googleapis.com/css2?family=WindSong&display=swap');
+@import url('//fonts.cdnfonts.com/css/harry-potter');
+@import url('//fonts.cdnfonts.com/css/harrypotter7');
 
 * {
   margin: 0;
@@ -9,7 +9,7 @@
 }
 
 .content h1 {
-  font-family: 'WindSong', cursive;
+  font-family: 'Harry Potter', sans-serif !important;
 }
 
 header {
